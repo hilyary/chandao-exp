@@ -30,19 +30,19 @@
 
 ### 综合信息
 
-![screenshot1.png](/assets/screenshot1.png.png)
+![screenshot1.png](/assets/screenshot1.png)
 
 ---
 
 ### 添加用户
 
-![screenshot2](assets/image-20250903203220517.png)
+![screenshot2](assets/screenshot2.png)
 
 ---
 
 ### 设置代理
 
-![screenshot3](assets/image-20250903203229516.png)
+![screenshot3](assets/screenshot3.png)
 
 ---
 
