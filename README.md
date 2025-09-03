@@ -30,7 +30,7 @@
 
 ### 综合信息
 
-![screenshot1.png](/Users/hilyary/security/tools/图形化/assets/screenshot1.png.png)
+![screenshot1.png](/assets/screenshot1.png.png)
 
 ---
 
